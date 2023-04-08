@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Nanor-Gosdanian-Portfolio/static/css/main.3bb46bcb.css",
+    "main.js": "/Nanor-Gosdanian-Portfolio/static/js/main.addcd1f9.js",
+    "static/media/portfolio6.png": "/Nanor-Gosdanian-Portfolio/static/media/portfolio6.875de0393062bd5ddf7f.png",
+    "static/media/portfolio3.png": "/Nanor-Gosdanian-Portfolio/static/media/portfolio3.9021eb4916aabc05a380.png",
+    "static/media/portfolio5.png": "/Nanor-Gosdanian-Portfolio/static/media/portfolio5.88709fc4cad6f4a6f30d.png",
+    "static/media/Me.jpg": "/Nanor-Gosdanian-Portfolio/static/media/Me.66c2cc7b159de6e8643f.jpg",
+    "static/media/Nanor.jpg": "/Nanor-Gosdanian-Portfolio/static/media/Nanor.e37196d9fa8478ff6ba2.jpg",
+    "static/media/Nanor Gosdanian CV.pdf": "/Nanor-Gosdanian-Portfolio/static/media/Nanor Gosdanian CV.08e9f8a826b03b73416b.pdf",
+    "index.html": "/Nanor-Gosdanian-Portfolio/index.html",
+    "main.3bb46bcb.css.map": "/Nanor-Gosdanian-Portfolio/static/css/main.3bb46bcb.css.map",
+    "main.addcd1f9.js.map": "/Nanor-Gosdanian-Portfolio/static/js/main.addcd1f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb46bcb.css",
+    "static/js/main.addcd1f9.js"
+  ]
+}
